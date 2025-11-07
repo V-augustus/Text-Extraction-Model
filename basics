@@ -1,0 +1,8 @@
+project/
+├── data/
+│   ├── raw/  # Downloaded datasets
+│   └── processed/  # Preprocessed images
+├── models/  # Saved models
+├── scripts/  # Python files for each step
+├── notebooks/  # Jupyter notebooks for experimentation
+└── requirements.txt  # List of libraries
