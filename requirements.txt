@@ -3,7 +3,7 @@ tensorflow==2.13.0
 keras
 pytesseract==0.3.10
 scikit-learn==1.3.0
-albumentations==1.3.0
+albumentations
 numpy==1.24.0
 pandas==2.0.0
 matplotlib==3.7.0
