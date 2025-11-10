@@ -1,0 +1,13 @@
+text-extraction/
+├── data/                       # datasets (gitignore big files)
+├── src/
+│   ├── preprocessing.py        # P1
+│   ├── detection.py            # P1
+│   ├── recognition.py          # P2
+│   └── app.py                  # P3 (Streamlit GUI)
+├── notebooks/
+├── requirements.txt            # pip users
+├── environment.yml
+├── .github/
+│   └── workflows/ci.yml        # optional CI (P3 later)
+└── README.md
