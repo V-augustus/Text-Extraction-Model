@@ -1,0 +1,25 @@
+name: text-extraction-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - opencv-python-headless
+      - numpy
+      - pillow
+      - matplotlib
+      - pytesseract
+      - easyocr
+      - streamlit
+      - torch
+      - torchvision
+      - torchaudio
+      - torchvision
+      - scikit-image
+      - fastapi
+      - uvicorn
+      - jupyterlab
+      - black
+      - flake8
+      - pre-commit
