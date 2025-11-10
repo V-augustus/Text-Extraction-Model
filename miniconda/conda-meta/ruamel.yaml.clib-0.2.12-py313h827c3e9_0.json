@@ -1,0 +1,47 @@
+{
+  "name": "ruamel.yaml.clib",
+  "version": "0.2.12",
+  "build": "py313h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "ruamel.yaml.clib-0.2.12-py313h827c3e9_0.conda",
+  "md5": "89a87bf6c6bfb53d3cac0ff14f0354c2",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ruamel.yaml.clib-0.2.12-py313h827c3e9_0.conda",
+  "sha256": "b24991687c7a185558b5412618aff3c3df446eb524c542cfea5ec80692155bd4",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1745937520000,
+  "size": 127748,
+  "requested_spec": "pkgs/main/win-64::ruamel.yaml.clib==0.2.12=py313h827c3e9_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\ruamel.yaml.clib-0.2.12-py313h827c3e9_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\ruamel.yaml.clib-0.2.12-py313h827c3e9_0",
+  "files": [
+    "Lib/site-packages/_ruamel_yaml.cp313-win_amd64.pyd",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/INSTALLER",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/LICENSE",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/METADATA",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/RECORD",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/REQUESTED",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/WHEEL",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/direct_url.json",
+    "Lib/site-packages/ruamel.yaml.clib-0.2.12.dist-info/top_level.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\ruamel.yaml.clib-0.2.12-py313h827c3e9_0",
+    "type": 1
+  }
+}

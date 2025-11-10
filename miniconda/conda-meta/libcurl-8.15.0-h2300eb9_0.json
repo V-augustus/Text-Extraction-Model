@@ -1,0 +1,55 @@
+{
+  "name": "libcurl",
+  "version": "8.15.0",
+  "build": "h2300eb9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libcurl-8.15.0-h2300eb9_0.conda",
+  "md5": "c82aa481a56d3dbcb878e0a99c09928f",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libcurl-8.15.0-h2300eb9_0.conda",
+  "sha256": "715c2bf5b6afad89142f36750f57790a913a3025a5cb0bc079441c6c35963497",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libssh2 >=1.11.1",
+    "libssh2 >=1.11.1,<2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zlib >=1.2.13,<2.0.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "curl",
+  "license_family": "MIT",
+  "timestamp": 1756460393000,
+  "size": 410519,
+  "requested_spec": "pkgs/main/win-64::libcurl==8.15.0=h2300eb9_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libcurl-8.15.0-h2300eb9_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libcurl-8.15.0-h2300eb9_0",
+  "files": [
+    "Library/bin/libcurl.dll",
+    "Library/include/curl/curl.h",
+    "Library/include/curl/curlver.h",
+    "Library/include/curl/easy.h",
+    "Library/include/curl/header.h",
+    "Library/include/curl/mprintf.h",
+    "Library/include/curl/multi.h",
+    "Library/include/curl/options.h",
+    "Library/include/curl/stdcheaders.h",
+    "Library/include/curl/system.h",
+    "Library/include/curl/typecheck-gcc.h",
+    "Library/include/curl/urlapi.h",
+    "Library/include/curl/websockets.h",
+    "Library/lib/libcurl.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libcurl-8.15.0-h2300eb9_0",
+    "type": 1
+  }
+}

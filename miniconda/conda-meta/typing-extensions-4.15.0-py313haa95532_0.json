@@ -1,0 +1,36 @@
+{
+  "name": "typing-extensions",
+  "version": "4.15.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "typing-extensions-4.15.0-py313haa95532_0.conda",
+  "md5": "b9d604ca2915d5b5c2e71c56eddcf39e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing-extensions-4.15.0-py313haa95532_0.conda",
+  "sha256": "3503a6100d19cd88fcc28c21d6e3517f78e77f4541408266f0d6ffc2010a6ed0",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "typing_extensions 4.15.0 py313haa95532_0"
+  ],
+  "constrains": [],
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "timestamp": 1756281409000,
+  "size": 12368,
+  "requested_spec": "pkgs/main/win-64::typing-extensions==4.15.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing-extensions-4.15.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing-extensions-4.15.0-py313haa95532_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing-extensions-4.15.0-py313haa95532_0",
+    "type": 1
+  }
+}

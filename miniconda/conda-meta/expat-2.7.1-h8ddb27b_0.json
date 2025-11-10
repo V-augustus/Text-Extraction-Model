@@ -1,0 +1,51 @@
+{
+  "name": "expat",
+  "version": "2.7.1",
+  "build": "h8ddb27b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "expat-2.7.1-h8ddb27b_0.conda",
+  "md5": "011c43ed4c203fe09147107af9fd1b5a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/expat-2.7.1-h8ddb27b_0.conda",
+  "sha256": "05832ad007294afea84150bd32a031659bc7e584fb12da13e388a75b945052e5",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1744659970000,
+  "size": 265542,
+  "requested_spec": "pkgs/main/win-64::expat==2.7.1=h8ddb27b_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\expat-2.7.1-h8ddb27b_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\expat-2.7.1-h8ddb27b_0",
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/libexpat.dll",
+    "Library/bin/xmlwf.exe",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.7.1/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.7.1/expat-config.cmake",
+    "Library/lib/cmake/expat-2.7.1/expat-release.cmake",
+    "Library/lib/cmake/expat-2.7.1/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog",
+    "Library/share/man/man1/xmlwf.1"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\expat-2.7.1-h8ddb27b_0",
+    "type": 1
+  }
+}

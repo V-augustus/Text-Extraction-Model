@@ -1,0 +1,40 @@
+{
+  "name": "anaconda_prompt",
+  "version": "1.1.0",
+  "build": "haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "anaconda_prompt-1.1.0-haa95532_1.conda",
+  "md5": "3b4e4df0ec2597ac8f580275f56b259a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/anaconda_prompt-1.1.0-haa95532_1.conda",
+  "sha256": "6689e5dc3e93c35dea4ce3f148de2e0b3b90ccaf489f8c5f5a1774683f8f77ef",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [],
+  "constrains": [
+    "anaconda-navigator >=1.9.8",
+    "menuinst >=2.1.1"
+  ],
+  "license": "BSD-3-Clause AND CC-BY-NC-ND-4.0",
+  "license_family": "Other",
+  "timestamp": 1749741674000,
+  "size": 541784,
+  "requested_spec": "pkgs/main/win-64::anaconda_prompt==1.1.0=haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda_prompt-1.1.0-haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda_prompt-1.1.0-haa95532_1",
+  "files": [
+    "Menu/anaconda_prompt.ico",
+    "Menu/anaconda_prompt_menu.json",
+    "Scripts/.anaconda_prompt-post-link.bat",
+    "Menu/anaconda_prompt_menu.json"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda_prompt-1.1.0-haa95532_1",
+    "type": 1
+  }
+}

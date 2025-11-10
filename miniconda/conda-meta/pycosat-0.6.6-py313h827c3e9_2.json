@@ -1,0 +1,50 @@
+{
+  "name": "pycosat",
+  "version": "0.6.6",
+  "build": "py313h827c3e9_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pycosat-0.6.6-py313h827c3e9_2.conda",
+  "md5": "31fe82cdc830f79c27346b9e66342d2a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycosat-0.6.6-py313h827c3e9_2.conda",
+  "sha256": "df4e2759d0dfd24b3e6e00dabfa6583b01c865db0527a0cb4ba21d67ca767b95",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1736869076000,
+  "size": 92654,
+  "requested_spec": "pkgs/main/win-64::pycosat==0.6.6=py313h827c3e9_2",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pycosat-0.6.6-py313h827c3e9_2.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pycosat-0.6.6-py313h827c3e9_2",
+  "files": [
+    "Lib/site-packages/__pycache__/test_pycosat.cpython-313.pyc",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/AUTHORS.md",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/INSTALLER",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/LICENSE",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/METADATA",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/RECORD",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/REQUESTED",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/WHEEL",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/direct_url.json",
+    "Lib/site-packages/pycosat-0.6.6.dist-info/top_level.txt",
+    "Lib/site-packages/pycosat.cp313-win_amd64.pyd",
+    "Lib/site-packages/test_pycosat.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pycosat-0.6.6-py313h827c3e9_2",
+    "type": 1
+  }
+}

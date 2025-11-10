@@ -1,0 +1,167 @@
+{
+  "name": "archspec",
+  "version": "0.2.5",
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "noarch",
+  "fn": "archspec-0.2.5-pyhd3eb1b0_0.conda",
+  "md5": "c0ad195970a65c174b997011ac13f2f8",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/archspec-0.2.5-pyhd3eb1b0_0.conda",
+  "sha256": "d7c38d818d5f88e636de5d9fba2365be56f3230ee2656ab3b552c1e4bbd07668",
+  "depends": [
+    "python >=3.7"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "MIT OR Apache-2.0",
+  "package_type": "noarch_python",
+  "timestamp": 1758125010000,
+  "size": 49261,
+  "requested_spec": "pkgs/main/noarch::archspec==0.2.5=pyhd3eb1b0_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\archspec-0.2.5-pyhd3eb1b0_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\archspec-0.2.5-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/archspec-0.2.5.dist-info/INSTALLER",
+    "Lib/site-packages/archspec-0.2.5.dist-info/METADATA",
+    "Lib/site-packages/archspec-0.2.5.dist-info/RECORD",
+    "Lib/site-packages/archspec-0.2.5.dist-info/REQUESTED",
+    "Lib/site-packages/archspec-0.2.5.dist-info/WHEEL",
+    "Lib/site-packages/archspec-0.2.5.dist-info/direct_url.json",
+    "Lib/site-packages/archspec-0.2.5.dist-info/entry_points.txt",
+    "Lib/site-packages/archspec-0.2.5.dist-info/licenses/LICENSE-APACHE",
+    "Lib/site-packages/archspec-0.2.5.dist-info/licenses/LICENSE-MIT",
+    "Lib/site-packages/archspec-0.2.5.dist-info/licenses/NOTICE",
+    "Lib/site-packages/archspec/__init__.py",
+    "Lib/site-packages/archspec/__main__.py",
+    "Lib/site-packages/archspec/cli.py",
+    "Lib/site-packages/archspec/cpu/__init__.py",
+    "Lib/site-packages/archspec/cpu/alias.py",
+    "Lib/site-packages/archspec/cpu/detect.py",
+    "Lib/site-packages/archspec/cpu/microarchitecture.py",
+    "Lib/site-packages/archspec/cpu/schema.py",
+    "Lib/site-packages/archspec/json/COPYRIGHT",
+    "Lib/site-packages/archspec/json/LICENSE-APACHE",
+    "Lib/site-packages/archspec/json/LICENSE-MIT",
+    "Lib/site-packages/archspec/json/NOTICE",
+    "Lib/site-packages/archspec/json/README.md",
+    "Lib/site-packages/archspec/json/cpu/cpuid.json",
+    "Lib/site-packages/archspec/json/cpu/cpuid_schema.json",
+    "Lib/site-packages/archspec/json/cpu/microarchitectures.json",
+    "Lib/site-packages/archspec/json/cpu/microarchitectures_schema.json",
+    "Lib/site-packages/archspec/json/tests/targets/bgq-rhel6-power7",
+    "Lib/site-packages/archspec/json/tests/targets/darwin-bigsur-m1",
+    "Lib/site-packages/archspec/json/tests/targets/darwin-mojave-haswell",
+    "Lib/site-packages/archspec/json/tests/targets/darwin-mojave-ivybridge",
+    "Lib/site-packages/archspec/json/tests/targets/darwin-mojave-skylake",
+    "Lib/site-packages/archspec/json/tests/targets/darwin-monterey-m1",
+    "Lib/site-packages/archspec/json/tests/targets/darwin-monterey-m2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-amazon-cortex_a72",
+    "Lib/site-packages/archspec/json/tests/targets/linux-amazon-neoverse_n1",
+    "Lib/site-packages/archspec/json/tests/targets/linux-amazon-neoverse_v1",
+    "Lib/site-packages/archspec/json/tests/targets/linux-amazon2-sapphirerapids",
+    "Lib/site-packages/archspec/json/tests/targets/linux-asahi-m1",
+    "Lib/site-packages/archspec/json/tests/targets/linux-asahi-m2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-centos7-cascadelake",
+    "Lib/site-packages/archspec/json/tests/targets/linux-centos7-power8le",
+    "Lib/site-packages/archspec/json/tests/targets/linux-centos7-thunderx2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel6-piledriver",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel7-broadwell",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel7-haswell",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel7-ivybridge",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel7-skylake_avx512",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel7-x86_64_v3",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel7-zen",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel8-neoverse_v1",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel8-power9",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel9-neoverse_n2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rhel9-neoverse_v2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rocky8-a64fx",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rocky8.5-zen4",
+    "Lib/site-packages/archspec/json/tests/targets/linux-rocky9-zen5",
+    "Lib/site-packages/archspec/json/tests/targets/linux-scientific7-k10",
+    "Lib/site-packages/archspec/json/tests/targets/linux-scientific7-piledriver",
+    "Lib/site-packages/archspec/json/tests/targets/linux-scientificfermi6-bulldozer",
+    "Lib/site-packages/archspec/json/tests/targets/linux-scientificfermi6-piledriver",
+    "Lib/site-packages/archspec/json/tests/targets/linux-sifive-u74mc",
+    "Lib/site-packages/archspec/json/tests/targets/linux-ubuntu18.04-broadwell",
+    "Lib/site-packages/archspec/json/tests/targets/linux-ubuntu20.04-zen3",
+    "Lib/site-packages/archspec/json/tests/targets/linux-ubuntu22.04-neoverse_n2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-ubuntu22.04-neoverse_v2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-unknown-neoverse_v2",
+    "Lib/site-packages/archspec/json/tests/targets/linux-unknown-power10",
+    "Lib/site-packages/archspec/json/tests/targets/linux-unknown-sapphirerapids",
+    "Lib/site-packages/archspec/json/tests/targets/windows-cpuid-broadwell",
+    "Lib/site-packages/archspec/json/tests/targets/windows-cpuid-icelake",
+    "Lib/site-packages/archspec/vendor/cpuid/.gitignore",
+    "Lib/site-packages/archspec/vendor/cpuid/LICENSE",
+    "Lib/site-packages/archspec/vendor/cpuid/README.md",
+    "Lib/site-packages/archspec/vendor/cpuid/cpuid.py",
+    "Lib/site-packages/archspec/vendor/cpuid/example.py",
+    "Lib/site-packages/archspec/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/archspec/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/archspec/__pycache__/cli.cpython-313.pyc",
+    "Lib/site-packages/archspec/cpu/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/archspec/cpu/__pycache__/alias.cpython-313.pyc",
+    "Lib/site-packages/archspec/cpu/__pycache__/detect.cpython-313.pyc",
+    "Lib/site-packages/archspec/cpu/__pycache__/microarchitecture.cpython-313.pyc",
+    "Lib/site-packages/archspec/cpu/__pycache__/schema.cpython-313.pyc",
+    "Lib/site-packages/archspec/vendor/cpuid/__pycache__/cpuid.cpython-313.pyc",
+    "Lib/site-packages/archspec/vendor/cpuid/__pycache__/example.cpython-313.pyc",
+    "Scripts/archspec-script.py",
+    "Scripts/archspec.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/archspec/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/__pycache__/__main__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/__pycache__/cli.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/cpu/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/cpu/__pycache__/alias.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/cpu/__pycache__/detect.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/cpu/__pycache__/microarchitecture.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/cpu/__pycache__/schema.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/vendor/cpuid/__pycache__/cpuid.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/archspec/vendor/cpuid/__pycache__/example.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/archspec-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\archspec-0.2.5-pyhd3eb1b0_0",
+    "type": 1
+  }
+}

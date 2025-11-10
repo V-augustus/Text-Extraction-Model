@@ -1,0 +1,53 @@
+{
+  "name": "brotlicffi",
+  "version": "1.0.9.2",
+  "build": "py313h5da7b33_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "brotlicffi-1.0.9.2-py313h5da7b33_1.conda",
+  "md5": "a10da7dfac3e4bae7cf68d487e8a6808",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/brotlicffi-1.0.9.2-py313h5da7b33_1.conda",
+  "sha256": "822ca13ee37707e7c1cd2f09888b55c4768520be66ecb8b3136dfde1547ee684",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "cffi >=1.0.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1736183665000,
+  "size": 365527,
+  "requested_spec": "pkgs/main/win-64::brotlicffi==1.0.9.2=py313h5da7b33_1",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\brotlicffi-1.0.9.2-py313h5da7b33_1.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\brotlicffi-1.0.9.2-py313h5da7b33_1",
+  "files": [
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/INSTALLER",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/LICENSE",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/METADATA",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/RECORD",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/REQUESTED",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/WHEEL",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/direct_url.json",
+    "Lib/site-packages/brotlicffi-1.0.9.2.dist-info/top_level.txt",
+    "Lib/site-packages/brotlicffi/__init__.py",
+    "Lib/site-packages/brotlicffi/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/brotlicffi/__pycache__/_api.cpython-313.pyc",
+    "Lib/site-packages/brotlicffi/__pycache__/_build.cpython-313.pyc",
+    "Lib/site-packages/brotlicffi/_api.py",
+    "Lib/site-packages/brotlicffi/_brotlicffi.pyd",
+    "Lib/site-packages/brotlicffi/_build.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\brotlicffi-1.0.9.2-py313h5da7b33_1",
+    "type": 1
+  }
+}

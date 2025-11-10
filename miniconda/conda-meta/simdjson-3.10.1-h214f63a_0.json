@@ -1,0 +1,54 @@
+{
+  "name": "simdjson",
+  "version": "3.10.1",
+  "build": "h214f63a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "simdjson-3.10.1-h214f63a_0.conda",
+  "md5": "e89a4c728f54ef6e0d7845fd1992af58",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/simdjson-3.10.1-h214f63a_0.conda",
+  "sha256": "fc942285ef1ed85c6ae955752e7ebadda95161eefc560c8e034d0d56f33110e1",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1734048180000,
+  "size": 281697,
+  "requested_spec": "pkgs/main/win-64::simdjson==3.10.1=h214f63a_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\simdjson-3.10.1-h214f63a_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\simdjson-3.10.1-h214f63a_0",
+  "files": [
+    "Library/bin/simdjson.dll",
+    "Library/include/simdjson.h",
+    "Library/lib/cmake/simdjson/simdjson-config-version.cmake",
+    "Library/lib/cmake/simdjson/simdjson-config.cmake",
+    "Library/lib/cmake/simdjson/simdjsonTargets-release.cmake",
+    "Library/lib/cmake/simdjson/simdjsonTargets.cmake",
+    "Library/lib/pkgconfig/simdjson.pc",
+    "Library/lib/simdjson.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/simdjson.pc",
+        "prefix_placeholder": "C:/b/abs_edpihj61wn/croot/simdjson-split_1734048064587/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "77251bd3ac3deb140a1ec83918467ef3fb0c124513045405c9ff304f2a71abc9",
+        "size_in_bytes": 330,
+        "sha256_in_prefix": "a9df54ef3a9ee7ce206c5b5f282825c0553e47ede0c626aabb1f4c69a2dadcbc"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\simdjson-3.10.1-h214f63a_0",
+    "type": 1
+  }
+}

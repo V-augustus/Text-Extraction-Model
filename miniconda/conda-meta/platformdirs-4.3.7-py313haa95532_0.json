@@ -1,0 +1,60 @@
+{
+  "name": "platformdirs",
+  "version": "4.3.7",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "platformdirs-4.3.7-py313haa95532_0.conda",
+  "md5": "87c9860f27b2d0348cbc9261ab1687fe",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/platformdirs-4.3.7-py313haa95532_0.conda",
+  "sha256": "49ecd26748ef95f404fd390db39c1a9404a79d24e7054c6fd2d26f8c8f305537",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1744273272000,
+  "size": 42844,
+  "requested_spec": "pkgs/main/win-64::platformdirs==4.3.7=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\platformdirs-4.3.7-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\platformdirs-4.3.7-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/INSTALLER",
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/METADATA",
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/RECORD",
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/REQUESTED",
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/WHEEL",
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/direct_url.json",
+    "Lib/site-packages/platformdirs-4.3.7.dist-info/licenses/LICENSE",
+    "Lib/site-packages/platformdirs/__init__.py",
+    "Lib/site-packages/platformdirs/__main__.py",
+    "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/android.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/api.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/macos.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/unix.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/windows.cpython-313.pyc",
+    "Lib/site-packages/platformdirs/android.py",
+    "Lib/site-packages/platformdirs/api.py",
+    "Lib/site-packages/platformdirs/macos.py",
+    "Lib/site-packages/platformdirs/py.typed",
+    "Lib/site-packages/platformdirs/unix.py",
+    "Lib/site-packages/platformdirs/version.py",
+    "Lib/site-packages/platformdirs/windows.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\platformdirs-4.3.7-py313haa95532_0",
+    "type": 1
+  }
+}

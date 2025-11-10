@@ -1,0 +1,63 @@
+{
+  "name": "libmambapy",
+  "version": "2.3.2",
+  "build": "py313h5078c03_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libmambapy-2.3.2-py313h5078c03_0.conda",
+  "md5": "8fb152ede4385e84efaad22bb852ecac",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libmambapy-2.3.2-py313h5078c03_0.conda",
+  "sha256": "1a8274bb4c83e1a989cae67f8238f2efc2156b2d9c756457deda708f1c29fe7c",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "fmt >=11.2.0,<12.0a0",
+    "libmamba 2.3.2 h7d9f7df_0",
+    "pybind11-abi 5",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1757623625000,
+  "size": 454978,
+  "requested_spec": "pkgs/main/win-64::libmambapy==2.3.2=py313h5078c03_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libmambapy-2.3.2-py313h5078c03_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libmambapy-2.3.2-py313h5078c03_0",
+  "files": [
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/INSTALLER",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/LICENSE",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/METADATA",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/RECORD",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/REQUESTED",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/WHEEL",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/direct_url.json",
+    "Lib/site-packages/libmambapy-2.3.2.dist-info/top_level.txt",
+    "Lib/site-packages/libmambapy/__init__.py",
+    "Lib/site-packages/libmambapy/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/specs.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/version.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/bindings.cp313-win_amd64.pyd",
+    "Lib/site-packages/libmambapy/solver/__init__.py",
+    "Lib/site-packages/libmambapy/solver/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/solver/__pycache__/libsolv.cpython-313.pyc",
+    "Lib/site-packages/libmambapy/solver/libsolv.py",
+    "Lib/site-packages/libmambapy/specs.py",
+    "Lib/site-packages/libmambapy/utils.py",
+    "Lib/site-packages/libmambapy/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libmambapy-2.3.2-py313h5078c03_0",
+    "type": 1
+  }
+}

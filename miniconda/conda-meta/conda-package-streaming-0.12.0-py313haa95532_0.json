@@ -1,0 +1,63 @@
+{
+  "name": "conda-package-streaming",
+  "version": "0.12.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "conda-package-streaming-0.12.0-py313haa95532_0.conda",
+  "md5": "c94fe99eaf284f886ebbc391b6e687a1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/conda-package-streaming-0.12.0-py313haa95532_0.conda",
+  "sha256": "4a22a22ae02cf2bf9a2d4a896c100a079ab34f9cfb4218e518a69032bb091bf5",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "requests",
+    "zstandard >=0.15"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1751307701000,
+  "size": 41428,
+  "requested_spec": "pkgs/main/win-64::conda-package-streaming==0.12.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\conda-package-streaming-0.12.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\conda-package-streaming-0.12.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/INSTALLER",
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/LICENSE",
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/METADATA",
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/RECORD",
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/REQUESTED",
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/WHEEL",
+    "Lib/site-packages/conda_package_streaming-0.12.0.dist-info/direct_url.json",
+    "Lib/site-packages/conda_package_streaming/__init__.py",
+    "Lib/site-packages/conda_package_streaming/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/create.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/extract.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/lazy_wheel.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/package_streaming.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/s3.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/transmute.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/url.cpython-313.pyc",
+    "Lib/site-packages/conda_package_streaming/create.py",
+    "Lib/site-packages/conda_package_streaming/exceptions.py",
+    "Lib/site-packages/conda_package_streaming/extract.py",
+    "Lib/site-packages/conda_package_streaming/lazy_wheel.py",
+    "Lib/site-packages/conda_package_streaming/package_streaming.py",
+    "Lib/site-packages/conda_package_streaming/s3.py",
+    "Lib/site-packages/conda_package_streaming/transmute.py",
+    "Lib/site-packages/conda_package_streaming/url.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\conda-package-streaming-0.12.0-py313haa95532_0",
+    "type": 1
+  }
+}

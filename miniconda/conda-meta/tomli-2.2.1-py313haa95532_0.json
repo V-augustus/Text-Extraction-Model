@@ -1,0 +1,52 @@
+{
+  "name": "tomli",
+  "version": "2.2.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "tomli-2.2.1-py313haa95532_0.conda",
+  "md5": "b8661d8c0d8549bee7ca40b692ceb727",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tomli-2.2.1-py313haa95532_0.conda",
+  "sha256": "39c8cbc0e1b50d13d4dbf1c94910bf4f8fb62e358616bc3008ba7f77c1993834",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1753774937000,
+  "size": 36022,
+  "requested_spec": "pkgs/main/win-64::tomli==2.2.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\tomli-2.2.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\tomli-2.2.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/tomli-2.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/tomli-2.2.1.dist-info/LICENSE",
+    "Lib/site-packages/tomli-2.2.1.dist-info/METADATA",
+    "Lib/site-packages/tomli-2.2.1.dist-info/RECORD",
+    "Lib/site-packages/tomli-2.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/tomli-2.2.1.dist-info/WHEEL",
+    "Lib/site-packages/tomli-2.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/tomli/__init__.py",
+    "Lib/site-packages/tomli/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/tomli/__pycache__/_parser.cpython-313.pyc",
+    "Lib/site-packages/tomli/__pycache__/_re.cpython-313.pyc",
+    "Lib/site-packages/tomli/__pycache__/_types.cpython-313.pyc",
+    "Lib/site-packages/tomli/_parser.py",
+    "Lib/site-packages/tomli/_re.py",
+    "Lib/site-packages/tomli/_types.py",
+    "Lib/site-packages/tomli/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\tomli-2.2.1-py313haa95532_0",
+    "type": 1
+  }
+}

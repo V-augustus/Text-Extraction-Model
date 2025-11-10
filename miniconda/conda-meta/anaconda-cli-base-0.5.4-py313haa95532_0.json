@@ -1,0 +1,73 @@
+{
+  "name": "anaconda-cli-base",
+  "version": "0.5.4",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "anaconda-cli-base-0.5.4-py313haa95532_0.conda",
+  "md5": "966f7107d037c33141bb3ffbeffdb68b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/anaconda-cli-base-0.5.4-py313haa95532_0.conda",
+  "sha256": "41dc4d1e22244ba1feedcb25578c84a8397b4b9f3d187d3603109071b71b7e3e",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "click <8.2",
+    "packaging >=23.0",
+    "pydantic-settings >=2.3",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "readchar",
+    "rich",
+    "tomli",
+    "typer"
+  ],
+  "constrains": [
+    "anaconda-client >=1.13.0",
+    "anaconda-cloud-cli >=0.3.0"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1760698299000,
+  "size": 70514,
+  "requested_spec": "pkgs/main/win-64::anaconda-cli-base==0.5.4=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda-cli-base-0.5.4-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda-cli-base-0.5.4-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/INSTALLER",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/METADATA",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/RECORD",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/REQUESTED",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/WHEEL",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/direct_url.json",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/entry_points.txt",
+    "Lib/site-packages/anaconda_cli_base-0.5.4.dist-info/licenses/LICENSE",
+    "Lib/site-packages/anaconda_cli_base/__init__.py",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/cli.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/config.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/console.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/deprecations.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/__pycache__/plugins.cpython-313.pyc",
+    "Lib/site-packages/anaconda_cli_base/_version.py",
+    "Lib/site-packages/anaconda_cli_base/cli.py",
+    "Lib/site-packages/anaconda_cli_base/config.py",
+    "Lib/site-packages/anaconda_cli_base/console.py",
+    "Lib/site-packages/anaconda_cli_base/deprecations.py",
+    "Lib/site-packages/anaconda_cli_base/exceptions.py",
+    "Lib/site-packages/anaconda_cli_base/plugins.py",
+    "Lib/site-packages/anaconda_cli_base/py.typed",
+    "Scripts/anaconda-script.py",
+    "Scripts/anaconda.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda-cli-base-0.5.4-py313haa95532_0",
+    "type": 1
+  }
+}

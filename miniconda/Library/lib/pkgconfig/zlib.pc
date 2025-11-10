@@ -1,0 +1,13 @@
+prefix=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library
+exec_prefix=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library
+libdir=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library/lib
+sharedlibdir=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library/lib
+includedir=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

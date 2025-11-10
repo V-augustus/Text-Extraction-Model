@@ -1,0 +1,49 @@
+{
+  "name": "jsonpointer",
+  "version": "3.0.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jsonpointer-3.0.0-py313haa95532_0.conda",
+  "md5": "d06bb9ef947860081fa8d136a3f5ba32",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jsonpointer-3.0.0-py313haa95532_0.conda",
+  "sha256": "d19b871ea3c1d9f87d35c7448726222fe63957142ed30952d021129d916b767d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1753788626000,
+  "size": 47321,
+  "requested_spec": "pkgs/main/win-64::jsonpointer==3.0.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jsonpointer-3.0.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jsonpointer-3.0.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/jsonpointer.cpython-313.pyc",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/METADATA",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/RECORD",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/WHEEL",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/licenses/AUTHORS",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/jsonpointer-3.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/jsonpointer.py",
+    "Scripts/jsonpointer-script.py",
+    "Scripts/jsonpointer.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jsonpointer-3.0.0-py313haa95532_0",
+    "type": 1
+  }
+}

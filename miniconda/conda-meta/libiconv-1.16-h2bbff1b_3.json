@@ -1,0 +1,43 @@
+{
+  "name": "libiconv",
+  "version": "1.16",
+  "build": "h2bbff1b_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libiconv-1.16-h2bbff1b_3.conda",
+  "md5": "1564a57e99efb880d46002dc825d07c1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libiconv-1.16-h2bbff1b_3.conda",
+  "sha256": "5007a6224c5b80e68d01bb04628ecc6a1e2a64a634857ec89ddb1e1f7b3329e4",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "GPL-3.0-or-later",
+  "license_family": "GPL3",
+  "timestamp": 1714484485000,
+  "size": 701524,
+  "requested_spec": "pkgs/main/win-64::libiconv==1.16=h2bbff1b_3",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libiconv-1.16-h2bbff1b_3.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libiconv-1.16-h2bbff1b_3",
+  "files": [
+    "Library/bin/charset.dll",
+    "Library/bin/iconv.dll",
+    "Library/include/iconv.h",
+    "Library/include/libcharset.h",
+    "Library/include/localcharset.h",
+    "Library/lib/charset.lib",
+    "Library/lib/iconv.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libiconv-1.16-h2bbff1b_3",
+    "type": 1
+  }
+}

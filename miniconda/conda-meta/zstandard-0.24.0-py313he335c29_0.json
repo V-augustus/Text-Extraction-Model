@@ -1,0 +1,57 @@
+{
+  "name": "zstandard",
+  "version": "0.24.0",
+  "build": "py313he335c29_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "zstandard-0.24.0-py313he335c29_0.conda",
+  "md5": "2fcbc03acf75dedbb17fec7ef2ba5803",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zstandard-0.24.0-py313he335c29_0.conda",
+  "sha256": "ecc86fd8a56adb8e6cfc2f6ede240b93350cdbf7382662c6ffb12f526e4dff03",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "cffi >=1.17",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133",
+    "zstd >=1.5.7,<1.5.8.0a0",
+    "zstd >=1.5.7,<1.6.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1758189153000,
+  "size": 337202,
+  "requested_spec": "pkgs/main/win-64::zstandard==0.24.0=py313he335c29_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\zstandard-0.24.0-py313he335c29_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\zstandard-0.24.0-py313he335c29_0",
+  "files": [
+    "Lib/site-packages/zstandard-0.24.0.dist-info/INSTALLER",
+    "Lib/site-packages/zstandard-0.24.0.dist-info/METADATA",
+    "Lib/site-packages/zstandard-0.24.0.dist-info/RECORD",
+    "Lib/site-packages/zstandard-0.24.0.dist-info/REQUESTED",
+    "Lib/site-packages/zstandard-0.24.0.dist-info/WHEEL",
+    "Lib/site-packages/zstandard-0.24.0.dist-info/direct_url.json",
+    "Lib/site-packages/zstandard-0.24.0.dist-info/top_level.txt",
+    "Lib/site-packages/zstandard/__init__.py",
+    "Lib/site-packages/zstandard/__init__.pyi",
+    "Lib/site-packages/zstandard/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/zstandard/__pycache__/backend_cffi.cpython-313.pyc",
+    "Lib/site-packages/zstandard/_cffi.cp313-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_c.cp313-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_cffi.py",
+    "Lib/site-packages/zstandard/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\zstandard-0.24.0-py313he335c29_0",
+    "type": 1
+  }
+}

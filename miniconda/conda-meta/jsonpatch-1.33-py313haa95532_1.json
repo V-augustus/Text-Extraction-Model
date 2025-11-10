@@ -1,0 +1,52 @@
+{
+  "name": "jsonpatch",
+  "version": "1.33",
+  "build": "py313haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jsonpatch-1.33-py313haa95532_1.conda",
+  "md5": "8c5fff5a1d8d36890bc5a297c1445785",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jsonpatch-1.33-py313haa95532_1.conda",
+  "sha256": "d25504515f356dc8c06dbf73ce598ba7b327431edf6ca1b06fa9a184a786ea04",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "jsonpointer >=1.9",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729054823000,
+  "size": 61903,
+  "requested_spec": "pkgs/main/win-64::jsonpatch==1.33=py313haa95532_1",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jsonpatch-1.33-py313haa95532_1.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jsonpatch-1.33-py313haa95532_1",
+  "files": [
+    "Lib/site-packages/__pycache__/jsonpatch.cpython-313.pyc",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/AUTHORS",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/INSTALLER",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/LICENSE",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/METADATA",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/RECORD",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/REQUESTED",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/WHEEL",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/direct_url.json",
+    "Lib/site-packages/jsonpatch-1.33.dist-info/top_level.txt",
+    "Lib/site-packages/jsonpatch.py",
+    "Scripts/jsondiff-script.py",
+    "Scripts/jsondiff.exe",
+    "Scripts/jsonpatch-script.py",
+    "Scripts/jsonpatch.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jsonpatch-1.33-py313haa95532_1",
+    "type": 1
+  }
+}

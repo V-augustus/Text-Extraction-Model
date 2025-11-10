@@ -1,0 +1,13 @@
+prefix=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libarchive
+Description: library that can create and read several streaming archive formats
+Version: 3.8.2
+Cflags: -I${includedir}
+Cflags.private: -DLIBARCHIVE_STATIC
+Libs: -L${libdir} -larchive
+Libs.private:  -lz -lbz2 -llzma -llz4 -lzstd -lcrypto -liconv -lcharset -lxml2 -lssl
+Requires.private: 

@@ -1,0 +1,62 @@
+{
+  "name": "anaconda-anon-usage",
+  "version": "0.7.3",
+  "build": "py313hfc23b7f_100",
+  "build_number": 100,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "anaconda-anon-usage-0.7.3-py313hfc23b7f_100.conda",
+  "md5": "12f03f62b34c8f02d89fd2af41ef47ac",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/anaconda-anon-usage-0.7.3-py313hfc23b7f_100.conda",
+  "sha256": "32f02352ab34a4af419438c751c376feb4fbf2b866d68c32bcc0316cfc70be25",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [
+    "conda >=23.7"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1757625827000,
+  "size": 39481,
+  "requested_spec": "pkgs/main/win-64::anaconda-anon-usage==0.7.3=py313hfc23b7f_100",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda-anon-usage-0.7.3-py313hfc23b7f_100.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda-anon-usage-0.7.3-py313hfc23b7f_100",
+  "files": [
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/INSTALLER",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/METADATA",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/RECORD",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/REQUESTED",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/WHEEL",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/direct_url.json",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/entry_points.txt",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/licenses/LICENSE",
+    "Lib/site-packages/anaconda_anon_usage-0.7.3.dist-info/top_level.txt",
+    "Lib/site-packages/anaconda_anon_usage/__init__.py",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/heartbeat.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/install.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/patch.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/plugin.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/tokens.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/anaconda_anon_usage/_version.py",
+    "Lib/site-packages/anaconda_anon_usage/heartbeat.py",
+    "Lib/site-packages/anaconda_anon_usage/patch.py",
+    "Lib/site-packages/anaconda_anon_usage/plugin.py",
+    "Lib/site-packages/anaconda_anon_usage/tokens.py",
+    "Lib/site-packages/anaconda_anon_usage/utils.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\anaconda-anon-usage-0.7.3-py313hfc23b7f_100",
+    "type": 1
+  }
+}

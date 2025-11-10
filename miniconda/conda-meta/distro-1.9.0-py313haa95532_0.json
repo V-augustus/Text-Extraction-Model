@@ -1,0 +1,54 @@
+{
+  "name": "distro",
+  "version": "1.9.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "distro-1.9.0-py313haa95532_0.conda",
+  "md5": "9a502db95e7e272d1b7ed53f03dafab2",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/distro-1.9.0-py313haa95532_0.conda",
+  "sha256": "5311c77bcb8f33552594b6743fab3944374085ee53626755813ba015cf71b10d",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "timestamp": 1729059201000,
+  "size": 63476,
+  "requested_spec": "pkgs/main/win-64::distro==1.9.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\distro-1.9.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\distro-1.9.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/distro-1.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/distro-1.9.0.dist-info/LICENSE",
+    "Lib/site-packages/distro-1.9.0.dist-info/METADATA",
+    "Lib/site-packages/distro-1.9.0.dist-info/RECORD",
+    "Lib/site-packages/distro-1.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/distro-1.9.0.dist-info/WHEEL",
+    "Lib/site-packages/distro-1.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/distro-1.9.0.dist-info/entry_points.txt",
+    "Lib/site-packages/distro-1.9.0.dist-info/top_level.txt",
+    "Lib/site-packages/distro/__init__.py",
+    "Lib/site-packages/distro/__main__.py",
+    "Lib/site-packages/distro/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/distro/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/distro/__pycache__/distro.cpython-313.pyc",
+    "Lib/site-packages/distro/distro.py",
+    "Lib/site-packages/distro/py.typed",
+    "Scripts/distro-script.py",
+    "Scripts/distro.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\distro-1.9.0-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "truststore",
+  "version": "0.10.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "truststore-0.10.1-py313haa95532_0.conda",
+  "md5": "4ba7e195a8b4cc052fcfc9e5e2b289fb",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/truststore-0.10.1-py313haa95532_0.conda",
+  "sha256": "03107a0bcd48191855ac5e1ec09c181d46f4cb21f5fc8b8f971ac641b56d3976",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1753907468000,
+  "size": 51816,
+  "requested_spec": "pkgs/main/win-64::truststore==0.10.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\truststore-0.10.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\truststore-0.10.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/truststore-0.10.1.dist-info/INSTALLER",
+    "Lib/site-packages/truststore-0.10.1.dist-info/LICENSE",
+    "Lib/site-packages/truststore-0.10.1.dist-info/METADATA",
+    "Lib/site-packages/truststore-0.10.1.dist-info/RECORD",
+    "Lib/site-packages/truststore-0.10.1.dist-info/REQUESTED",
+    "Lib/site-packages/truststore-0.10.1.dist-info/WHEEL",
+    "Lib/site-packages/truststore-0.10.1.dist-info/direct_url.json",
+    "Lib/site-packages/truststore/__init__.py",
+    "Lib/site-packages/truststore/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/truststore/__pycache__/_api.cpython-313.pyc",
+    "Lib/site-packages/truststore/__pycache__/_macos.cpython-313.pyc",
+    "Lib/site-packages/truststore/__pycache__/_openssl.cpython-313.pyc",
+    "Lib/site-packages/truststore/__pycache__/_ssl_constants.cpython-313.pyc",
+    "Lib/site-packages/truststore/__pycache__/_windows.cpython-313.pyc",
+    "Lib/site-packages/truststore/_api.py",
+    "Lib/site-packages/truststore/_macos.py",
+    "Lib/site-packages/truststore/_openssl.py",
+    "Lib/site-packages/truststore/_ssl_constants.py",
+    "Lib/site-packages/truststore/_windows.py",
+    "Lib/site-packages/truststore/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\truststore-0.10.1-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "jaraco.context",
+  "version": "6.0.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "jaraco.context-6.0.0-py313haa95532_0.conda",
+  "md5": "bcce18a806451838e614bfb37b3c5680",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jaraco.context-6.0.0-py313haa95532_0.conda",
+  "sha256": "ca0b6e64ad01c753e64a2da2851ecda8e2c9f0434114e9e83f1e1b5f8d953a00",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1731721032000,
+  "size": 18033,
+  "requested_spec": "pkgs/main/win-64::jaraco.context==6.0.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jaraco.context-6.0.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jaraco.context-6.0.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/LICENSE",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/METADATA",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/RECORD",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/WHEEL",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/jaraco.context-0.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/jaraco/context/__init__.py",
+    "Lib/site-packages/jaraco/context/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jaraco/context/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\jaraco.context-6.0.0-py313haa95532_0",
+    "type": 1
+  }
+}

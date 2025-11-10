@@ -1,0 +1,60 @@
+{
+  "name": "idna",
+  "version": "3.7",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "idna-3.7-py313haa95532_0.conda",
+  "md5": "18fdc2ef3f3a8e12225bcdaf232cec57",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/idna-3.7-py313haa95532_0.conda",
+  "sha256": "24dfed597f303cdf6ae58f7f9bc9a750b37614cc3c071af1b5ba0347ebc19274",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729039024000,
+  "size": 107057,
+  "requested_spec": "pkgs/main/win-64::idna==3.7=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\idna-3.7-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\idna-3.7-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/idna-3.7.dist-info/INSTALLER",
+    "Lib/site-packages/idna-3.7.dist-info/LICENSE.md",
+    "Lib/site-packages/idna-3.7.dist-info/METADATA",
+    "Lib/site-packages/idna-3.7.dist-info/RECORD",
+    "Lib/site-packages/idna-3.7.dist-info/REQUESTED",
+    "Lib/site-packages/idna-3.7.dist-info/WHEEL",
+    "Lib/site-packages/idna-3.7.dist-info/direct_url.json",
+    "Lib/site-packages/idna/__init__.py",
+    "Lib/site-packages/idna/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/codec.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/compat.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/core.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/idnadata.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/intranges.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/package_data.cpython-313.pyc",
+    "Lib/site-packages/idna/__pycache__/uts46data.cpython-313.pyc",
+    "Lib/site-packages/idna/codec.py",
+    "Lib/site-packages/idna/compat.py",
+    "Lib/site-packages/idna/core.py",
+    "Lib/site-packages/idna/idnadata.py",
+    "Lib/site-packages/idna/intranges.py",
+    "Lib/site-packages/idna/package_data.py",
+    "Lib/site-packages/idna/py.typed",
+    "Lib/site-packages/idna/uts46data.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\idna-3.7-py313haa95532_0",
+    "type": 1
+  }
+}

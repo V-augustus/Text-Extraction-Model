@@ -1,0 +1,61 @@
+{
+  "name": "pluggy",
+  "version": "1.5.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pluggy-1.5.0-py313haa95532_0.conda",
+  "md5": "47b7d5b3c05f9fd724ccd38ef245106b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pluggy-1.5.0-py313haa95532_0.conda",
+  "sha256": "935621f7a4b87eed794ff9dbfc6cb6d7b6df706ec7bb85597056c1a22961c4f9",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1733170310000,
+  "size": 49337,
+  "requested_spec": "pkgs/main/win-64::pluggy==1.5.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pluggy-1.5.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pluggy-1.5.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/pluggy-1.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/LICENSE",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/METADATA",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/RECORD",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/WHEEL",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/pluggy-1.5.0.dist-info/top_level.txt",
+    "Lib/site-packages/pluggy/__init__.py",
+    "Lib/site-packages/pluggy/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_callers.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_hooks.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_manager.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_result.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_tracing.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_version.cpython-313.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_warnings.cpython-313.pyc",
+    "Lib/site-packages/pluggy/_callers.py",
+    "Lib/site-packages/pluggy/_hooks.py",
+    "Lib/site-packages/pluggy/_manager.py",
+    "Lib/site-packages/pluggy/_result.py",
+    "Lib/site-packages/pluggy/_tracing.py",
+    "Lib/site-packages/pluggy/_version.py",
+    "Lib/site-packages/pluggy/_warnings.py",
+    "Lib/site-packages/pluggy/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pluggy-1.5.0-py313haa95532_0",
+    "type": 1
+  }
+}

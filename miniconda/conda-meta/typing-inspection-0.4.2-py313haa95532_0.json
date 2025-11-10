@@ -1,0 +1,52 @@
+{
+  "name": "typing-inspection",
+  "version": "0.4.2",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "typing-inspection-0.4.2-py313haa95532_0.conda",
+  "md5": "e20a2281ead8112e87233f7ced446b0d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing-inspection-0.4.2-py313haa95532_0.conda",
+  "sha256": "2d10e45ad212588bd03eded99708a7d2dc50f4353577c890e82a28e6e3593f2a",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "typing_extensions >=4.12.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1760614225000,
+  "size": 32527,
+  "requested_spec": "pkgs/main/win-64::typing-inspection==0.4.2=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing-inspection-0.4.2-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing-inspection-0.4.2-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/METADATA",
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/RECORD",
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/WHEEL",
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/typing_inspection-0.4.2.dist-info/licenses/LICENSE",
+    "Lib/site-packages/typing_inspection/__init__.py",
+    "Lib/site-packages/typing_inspection/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/typing_inspection/__pycache__/introspection.cpython-313.pyc",
+    "Lib/site-packages/typing_inspection/__pycache__/typing_objects.cpython-313.pyc",
+    "Lib/site-packages/typing_inspection/introspection.py",
+    "Lib/site-packages/typing_inspection/py.typed",
+    "Lib/site-packages/typing_inspection/typing_objects.py",
+    "Lib/site-packages/typing_inspection/typing_objects.pyi"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing-inspection-0.4.2-py313haa95532_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "shellingham",
+  "version": "1.5.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "shellingham-1.5.0-py313haa95532_0.conda",
+  "md5": "642101a06e2494f6917c728029ac8792",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/shellingham-1.5.0-py313haa95532_0.conda",
+  "sha256": "d4e6959df4d2da67a8816211cb900804d5fa96139ab9b5eec67a2e07c0d56405",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "ISC",
+  "license_family": "OTHER",
+  "timestamp": 1729046701000,
+  "size": 22039,
+  "requested_spec": "pkgs/main/win-64::shellingham==1.5.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\shellingham-1.5.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\shellingham-1.5.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/shellingham-1.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/LICENSE",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/METADATA",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/RECORD",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/WHEEL",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/top_level.txt",
+    "Lib/site-packages/shellingham-1.5.0.dist-info/zip-safe",
+    "Lib/site-packages/shellingham/__init__.py",
+    "Lib/site-packages/shellingham/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/shellingham/__pycache__/_core.cpython-313.pyc",
+    "Lib/site-packages/shellingham/__pycache__/nt.cpython-313.pyc",
+    "Lib/site-packages/shellingham/_core.py",
+    "Lib/site-packages/shellingham/nt.py",
+    "Lib/site-packages/shellingham/posix/__init__.py",
+    "Lib/site-packages/shellingham/posix/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/_core.cpython-313.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/proc.cpython-313.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/ps.cpython-313.pyc",
+    "Lib/site-packages/shellingham/posix/_core.py",
+    "Lib/site-packages/shellingham/posix/proc.py",
+    "Lib/site-packages/shellingham/posix/ps.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\shellingham-1.5.0-py313haa95532_0",
+    "type": 1
+  }
+}

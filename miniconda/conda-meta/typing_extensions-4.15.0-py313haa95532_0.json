@@ -1,0 +1,45 @@
+{
+  "name": "typing_extensions",
+  "version": "4.15.0",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "typing_extensions-4.15.0-py313haa95532_0.conda",
+  "md5": "0e3cbe58bfd973d09298bcbf2de72675",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing_extensions-4.15.0-py313haa95532_0.conda",
+  "sha256": "7ffee67192fba083f61c95f197fc119cb77ef83528d5d18ed2f63a881e46c0b9",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "timestamp": 1756281400000,
+  "size": 103139,
+  "requested_spec": "pkgs/main/win-64::typing_extensions==4.15.0=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing_extensions-4.15.0-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing_extensions-4.15.0-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/typing_extensions.cpython-313.pyc",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/INSTALLER",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/METADATA",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/RECORD",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/REQUESTED",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/WHEEL",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/direct_url.json",
+    "Lib/site-packages/typing_extensions-4.15.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/typing_extensions.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\typing_extensions-4.15.0-py313haa95532_0",
+    "type": 1
+  }
+}

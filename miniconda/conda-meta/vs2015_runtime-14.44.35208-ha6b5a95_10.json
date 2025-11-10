@@ -1,0 +1,34 @@
+{
+  "name": "vs2015_runtime",
+  "version": "14.44.35208",
+  "build": "ha6b5a95_10",
+  "build_number": 10,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "vs2015_runtime-14.44.35208-ha6b5a95_10.conda",
+  "md5": "58665d8e606897afb52a202669673c40",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vs2015_runtime-14.44.35208-ha6b5a95_10.conda",
+  "sha256": "fa731e65f9c6b7b9559cb93653d067658594f39d2bc5c75cae85ac2385d79d06",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1752199762000,
+  "size": 19526,
+  "requested_spec": "pkgs/main/win-64::vs2015_runtime==14.44.35208=ha6b5a95_10",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\vs2015_runtime-14.44.35208-ha6b5a95_10.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\vs2015_runtime-14.44.35208-ha6b5a95_10",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\vs2015_runtime-14.44.35208-ha6b5a95_10",
+    "type": 1
+  }
+}

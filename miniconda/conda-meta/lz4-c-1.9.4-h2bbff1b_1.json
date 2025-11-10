@@ -1,0 +1,42 @@
+{
+  "name": "lz4-c",
+  "version": "1.9.4",
+  "build": "h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lz4-c-1.9.4-h2bbff1b_1.conda",
+  "md5": "723e3ccd4ef7c58ddbfeebe69abff662",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lz4-c-1.9.4-h2bbff1b_1.conda",
+  "sha256": "0e848b5004a9dc7a06f459cc67c404d7fb0321bf134ec7512815afafe97960b4",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "timestamp": 1714512129000,
+  "size": 155711,
+  "requested_spec": "pkgs/main/win-64::lz4-c==1.9.4=h2bbff1b_1",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\lz4-c-1.9.4-h2bbff1b_1.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\lz4-c-1.9.4-h2bbff1b_1",
+  "files": [
+    "Library/bin/liblz4.dll",
+    "Library/bin/lz4.exe",
+    "Library/include/lz4.h",
+    "Library/include/lz4frame.h",
+    "Library/include/lz4hc.h",
+    "Library/lib/liblz4.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\lz4-c-1.9.4-h2bbff1b_1",
+    "type": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "certifi",
+  "version": "2025.10.5",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "certifi-2025.10.5-py313haa95532_0.conda",
+  "md5": "5648d60ad23a494376d9b0254f5eaa1d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2025.10.5-py313haa95532_0.conda",
+  "sha256": "c5fc5a9eb16fcf898ffffb262f70b9756f500c4234ffe597107c6f1a53ad7b04",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MPL-2.0",
+  "license_family": "Other",
+  "timestamp": 1759786108000,
+  "size": 160887,
+  "requested_spec": "pkgs/main/win-64::certifi==2025.10.5=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\certifi-2025.10.5-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\certifi-2025.10.5-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/certifi-2025.10.5.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/METADATA",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/RECORD",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2025.10.5.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-313.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\certifi-2025.10.5-py313haa95532_0",
+    "type": 1
+  }
+}

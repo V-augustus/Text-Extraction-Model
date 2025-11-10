@@ -1,0 +1,42 @@
+{
+  "name": "sqlite",
+  "version": "3.50.2",
+  "build": "hda9a48d_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "sqlite-3.50.2-hda9a48d_1.conda",
+  "md5": "9796bc1868a29e4ec53a054cc84870ba",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.50.2-hda9a48d_1.conda",
+  "sha256": "cc0f45b4cf796187b4119ec6ec629984a84939ac096100496b9d72a5be20af85",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "blessing",
+  "license_family": "Other",
+  "timestamp": 1752773667000,
+  "size": 1041352,
+  "requested_spec": "pkgs/main/win-64::sqlite==3.50.2=hda9a48d_1",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\sqlite-3.50.2-hda9a48d_1.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\sqlite-3.50.2-hda9a48d_1",
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/bin/sqlite3.exe",
+    "Library/include/sqlite3.h",
+    "Library/include/sqlite3ext.h",
+    "Library/lib/sqlite3.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\sqlite-3.50.2-hda9a48d_1",
+    "type": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "reproc",
+  "version": "14.2.4",
+  "build": "hd77b12b_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "reproc-14.2.4-hd77b12b_2.conda",
+  "md5": "0145436bf5111660b686d3ad7f1b4235",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/reproc-14.2.4-hd77b12b_2.conda",
+  "sha256": "1244464650edae7ee4a7361e2bff996d40f41a984ce824fb96c911151aa0e7df",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1714681024000,
+  "size": 41178,
+  "requested_spec": "pkgs/main/win-64::reproc==14.2.4=hd77b12b_2",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\reproc-14.2.4-hd77b12b_2.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\reproc-14.2.4-hd77b12b_2",
+  "files": [
+    "Library/bin/reproc.dll",
+    "Library/include/reproc/drain.h",
+    "Library/include/reproc/export.h",
+    "Library/include/reproc/reproc.h",
+    "Library/include/reproc/run.h",
+    "Library/lib/cmake/reproc/reproc-config-version.cmake",
+    "Library/lib/cmake/reproc/reproc-config.cmake",
+    "Library/lib/cmake/reproc/reproc-targets-release.cmake",
+    "Library/lib/cmake/reproc/reproc-targets.cmake",
+    "Library/lib/pkgconfig/reproc.pc",
+    "Library/lib/reproc.lib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/reproc.pc",
+        "prefix_placeholder": "C:/b/abs_5f3aywj55d/croot/reproc_1714680931441/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "5d5518cc804e9843a8e7cbb3a149b5ed28ad8b64cbff69949a517151b6aa3d83",
+        "size_in_bytes": 359,
+        "sha256_in_prefix": "6e97d2590e1eba820698dfc5062db6f31bd2b8c337d3a56f5b8f66eddbb11852"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\reproc-14.2.4-hd77b12b_2",
+    "type": 1
+  }
+}

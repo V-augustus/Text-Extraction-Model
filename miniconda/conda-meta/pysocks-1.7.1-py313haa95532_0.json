@@ -1,0 +1,49 @@
+{
+  "name": "pysocks",
+  "version": "1.7.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pysocks-1.7.1-py313haa95532_0.conda",
+  "md5": "73e4658201e15b0de36612f95abf57d5",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pysocks-1.7.1-py313haa95532_0.conda",
+  "sha256": "5f1831ab2d26f3e0bbba20a15c96673548b32278f7fceb73f0094d9d33a03b21",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "win_inet_pton"
+  ],
+  "constrains": [],
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1729039341000,
+  "size": 36835,
+  "requested_spec": "pkgs/main/win-64::pysocks==1.7.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pysocks-1.7.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pysocks-1.7.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/PySocks-1.7.1.dist-info/INSTALLER",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/LICENSE",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/METADATA",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/RECORD",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/REQUESTED",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/WHEEL",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/direct_url.json",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/top_level.txt",
+    "Lib/site-packages/__pycache__/socks.cpython-313.pyc",
+    "Lib/site-packages/__pycache__/sockshandler.cpython-313.pyc",
+    "Lib/site-packages/socks.py",
+    "Lib/site-packages/sockshandler.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pysocks-1.7.1-py313haa95532_0",
+    "type": 1
+  }
+}

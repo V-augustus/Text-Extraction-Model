@@ -1,0 +1,11 @@
+prefix=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library
+exec_prefix=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: fmt
+Description: A modern formatting library
+Version: 11.2.0
+Libs: -L${libdir} -lfmt
+Cflags: -I${includedir}
+

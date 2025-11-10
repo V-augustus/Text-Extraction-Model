@@ -1,0 +1,56 @@
+{
+  "name": "mdurl",
+  "version": "0.1.2",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "mdurl-0.1.2-py313haa95532_0.conda",
+  "md5": "6c5764715afea281b71aa53cdc81c545",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mdurl-0.1.2-py313haa95532_0.conda",
+  "sha256": "c2748474cedb35b4643872288cedf94deae958ff684d17daf222bbb26bac4e79",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1758552317000,
+  "size": 26954,
+  "requested_spec": "pkgs/main/win-64::mdurl==0.1.2=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\mdurl-0.1.2-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\mdurl-0.1.2-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/mdurl-0.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/mdurl-0.1.2.dist-info/METADATA",
+    "Lib/site-packages/mdurl-0.1.2.dist-info/RECORD",
+    "Lib/site-packages/mdurl-0.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/mdurl-0.1.2.dist-info/WHEEL",
+    "Lib/site-packages/mdurl-0.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/mdurl-0.1.2.dist-info/licenses/LICENSE",
+    "Lib/site-packages/mdurl/__init__.py",
+    "Lib/site-packages/mdurl/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_decode.cpython-313.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_encode.cpython-313.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_format.cpython-313.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_parse.cpython-313.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_url.cpython-313.pyc",
+    "Lib/site-packages/mdurl/_decode.py",
+    "Lib/site-packages/mdurl/_encode.py",
+    "Lib/site-packages/mdurl/_format.py",
+    "Lib/site-packages/mdurl/_parse.py",
+    "Lib/site-packages/mdurl/_url.py",
+    "Lib/site-packages/mdurl/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\mdurl-0.1.2-py313haa95532_0",
+    "type": 1
+  }
+}

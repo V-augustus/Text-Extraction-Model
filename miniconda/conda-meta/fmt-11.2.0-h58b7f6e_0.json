@@ -1,0 +1,68 @@
+{
+  "name": "fmt",
+  "version": "11.2.0",
+  "build": "h58b7f6e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "fmt-11.2.0-h58b7f6e_0.conda",
+  "md5": "de02359dfe1a0b71736085f1e65508f1",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/fmt-11.2.0-h58b7f6e_0.conda",
+  "sha256": "34df803b78d9c5b23674c0663b505980025afbc6098d8fb53cb9b6c1b4b33082",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1754991152000,
+  "size": 209011,
+  "requested_spec": "pkgs/main/win-64::fmt==11.2.0=h58b7f6e_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\fmt-11.2.0-h58b7f6e_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\fmt-11.2.0-h58b7f6e_0",
+  "files": [
+    "Library/bin/fmt.dll",
+    "Library/include/fmt/args.h",
+    "Library/include/fmt/base.h",
+    "Library/include/fmt/chrono.h",
+    "Library/include/fmt/color.h",
+    "Library/include/fmt/compile.h",
+    "Library/include/fmt/core.h",
+    "Library/include/fmt/format-inl.h",
+    "Library/include/fmt/format.h",
+    "Library/include/fmt/os.h",
+    "Library/include/fmt/ostream.h",
+    "Library/include/fmt/printf.h",
+    "Library/include/fmt/ranges.h",
+    "Library/include/fmt/std.h",
+    "Library/include/fmt/xchar.h",
+    "Library/lib/cmake/fmt/fmt-config-version.cmake",
+    "Library/lib/cmake/fmt/fmt-config.cmake",
+    "Library/lib/cmake/fmt/fmt-targets-release.cmake",
+    "Library/lib/cmake/fmt/fmt-targets.cmake",
+    "Library/lib/fmt.lib",
+    "Library/lib/pkgconfig/fmt.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/fmt.pc",
+        "prefix_placeholder": "C:/b/abs_e4z9s4yute/croot/fmt_1754990884760/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "f0595d3b26d99c787ea4d55b04d41f01829fd1e701a20c5b65d6117205676072",
+        "size_in_bytes": 320,
+        "sha256_in_prefix": "45d21d1563cb5d05ca6e629c42b3f9b675bfea84b2b7cea46ba5241a5437a806"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\fmt-11.2.0-h58b7f6e_0",
+    "type": 1
+  }
+}

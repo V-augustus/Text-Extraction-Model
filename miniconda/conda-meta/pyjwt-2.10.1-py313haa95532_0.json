@@ -1,0 +1,72 @@
+{
+  "name": "pyjwt",
+  "version": "2.10.1",
+  "build": "py313haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "pyjwt-2.10.1-py313haa95532_0.conda",
+  "md5": "e4b861aec64f67abbc78dbdaf67b8d5e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyjwt-2.10.1-py313haa95532_0.conda",
+  "sha256": "590eafe75b911073c660f828ae80b590e43389cfeabf89983e251dc73ef9abd7",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "constrains": [
+    "cryptography >=3.4.0"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "timestamp": 1739560011000,
+  "size": 87960,
+  "requested_spec": "pkgs/main/win-64::pyjwt==2.10.1=py313haa95532_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pyjwt-2.10.1-py313haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pyjwt-2.10.1-py313haa95532_0",
+  "files": [
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/AUTHORS.rst",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/INSTALLER",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/LICENSE",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/METADATA",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/RECORD",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/REQUESTED",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/WHEEL",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/direct_url.json",
+    "Lib/site-packages/PyJWT-2.10.1.dist-info/top_level.txt",
+    "Lib/site-packages/jwt/__init__.py",
+    "Lib/site-packages/jwt/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/algorithms.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jwk.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jws.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jwt.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/help.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/jwk_set_cache.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/jwks_client.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/types.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/jwt/__pycache__/warnings.cpython-313.pyc",
+    "Lib/site-packages/jwt/algorithms.py",
+    "Lib/site-packages/jwt/api_jwk.py",
+    "Lib/site-packages/jwt/api_jws.py",
+    "Lib/site-packages/jwt/api_jwt.py",
+    "Lib/site-packages/jwt/exceptions.py",
+    "Lib/site-packages/jwt/help.py",
+    "Lib/site-packages/jwt/jwk_set_cache.py",
+    "Lib/site-packages/jwt/jwks_client.py",
+    "Lib/site-packages/jwt/py.typed",
+    "Lib/site-packages/jwt/types.py",
+    "Lib/site-packages/jwt/utils.py",
+    "Lib/site-packages/jwt/warnings.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\pyjwt-2.10.1-py313haa95532_0",
+    "type": 1
+  }
+}

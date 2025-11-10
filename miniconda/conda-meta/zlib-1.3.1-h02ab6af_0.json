@@ -1,0 +1,56 @@
+{
+  "name": "zlib",
+  "version": "1.3.1",
+  "build": "h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "zlib-1.3.1-h02ab6af_0.conda",
+  "md5": "4db9b3fbefe915ffb9eef8c812a98c6a",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zlib-1.3.1-h02ab6af_0.conda",
+  "sha256": "116120d38011eea43cbeeb70e00b0eaa3b1c0a3f470df09aadb0d0b66aebbf60",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "libzlib 1.3.1 h02ab6af_0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [],
+  "license": "Zlib",
+  "license_family": "OTHER",
+  "timestamp": 1756476083000,
+  "size": 115567,
+  "requested_spec": "pkgs/main/win-64::zlib==1.3.1=h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\zlib-1.3.1-h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\zlib-1.3.1-h02ab6af_0",
+  "files": [
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/pkgconfig/zlib.pc",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/zlib.pc",
+        "prefix_placeholder": "C:/b/abs_32dad41tdx/croot/zlib-split_1756475910568/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "46a874f3d6e4da9ccff384c6e1cdfd2d602633a7edf4cbc2fa66154458f153c8",
+        "size_in_bytes": 549,
+        "sha256_in_prefix": "c1eea340431845705a49a8faeceec2a82b6ae361edfa2f33f590c038d0ac46ee"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\zlib-1.3.1-h02ab6af_0",
+    "type": 1
+  }
+}

@@ -1,0 +1,9 @@
+libdir=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library/lib
+includedir=C:/Users/vjvan/OneDrive/Desktop/GitHub/Text-Extraction-Model/miniconda/Library/include
+
+Name: libsolvext
+Description: Library for reading repositories
+Version: 0.7.30
+Requires: libsolv
+Libs: -L${libdir} -lsolvext
+Cflags: -I${includedir}

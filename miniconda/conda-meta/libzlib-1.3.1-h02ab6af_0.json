@@ -1,0 +1,41 @@
+{
+  "name": "libzlib",
+  "version": "1.3.1",
+  "build": "h02ab6af_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libzlib-1.3.1-h02ab6af_0.conda",
+  "md5": "1e313539489432d5edd44efbec8a4d53",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libzlib-1.3.1-h02ab6af_0.conda",
+  "sha256": "0478d0e08e9737e6680343cd26380d8faf4f038bb59170818868cd2fb69e5481",
+  "arch": "x86_64",
+  "platform": "win32",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "constrains": [
+    "zlib 1.3.1"
+  ],
+  "license": "Zlib",
+  "license_family": "OTHER",
+  "timestamp": 1756476045000,
+  "size": 65950,
+  "requested_spec": "pkgs/main/win-64::libzlib==1.3.1=h02ab6af_0",
+  "package_tarball_full_path": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libzlib-1.3.1-h02ab6af_0.conda",
+  "extracted_package_dir": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libzlib-1.3.1-h02ab6af_0",
+  "files": [
+    "Library/bin/zlib.dll",
+    "zlib.dll"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\vjvan\\OneDrive\\Desktop\\GitHub\\Text-Extraction-Model\\miniconda\\pkgs\\libzlib-1.3.1-h02ab6af_0",
+    "type": 1
+  }
+}
