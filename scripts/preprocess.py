@@ -5,7 +5,7 @@ from albumentations import Compose, Resize, Normalize, RandomRotate90, GaussNois
 # Define augmentations
 transform = Compose([
     Resize(224, 224),  # Standard size for models
-    Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)),  # ImageNet normalization
+    Normalize(mean=(0.4185, 0.456, 0.406), std=(0.229, 0.224, 0.225)),  # ImageNet normalization
     RandomRotate90(p=0.5),  # Augment for robustness
     GaussNoise(p=0.2)
 ])
