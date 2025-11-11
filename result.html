@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Result — Ledger OCR</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<header>
+<h1>Result</h1>
+</header>
+
+
+<main class="result-main">
+<div class="image-col">
+<h3>Processed Image</h3>
+<img src="{{ image_url }}" alt="processed" style="max-width:100%"/>
+</div>
+
+
+<div class="text-col">
+<h3>Extracted Text</h3>
+<div class="extracted">
+{% for line in lines %}
+<div class="line">{{ line }}</div>
+{% endfor %}
+</div>
+
+
+<div class="actions">
+<a href="/{{ csv_file }}" download class="btn">Download CSV</a>
+<a href="/{{ excel_file }}" download class="btn">Download Excel</a>
+<a href="/" class="btn secondary">Upload another</a>
+</div>
+</div>
+</main>
+
+
+<footer>
+<small>Tip: Good lighting improves accuracy</small>
+</footer>
+</div>
+</body>
+</html>
