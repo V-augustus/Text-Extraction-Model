@@ -1,11 +1,19 @@
-import pytesseract
-import cv2
-import os
+import easyocr
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+def recognize_text(image_path):
+    """
+    Performs text recognition on the given image using EasyOCR.
+    Returns recognized text with bounding boxes and confidence scores.
+    """
+    reader = easyocr.Reader(['en'], gpu=False)  # use gpu=True if you have GPU acceleration working
+    results = reader.readtext(image_path)
+    
+    text_output = []
+    for (bbox, text, prob) in results:
+        text_output.append({
+            "bounding_box": bbox,
+            "text": text,
+            "confidence": float(prob)
+        })
+    return text_output
 
-def extract_text(preprocessed_image, lang="eng", config="--oem 3 --psm 6"):
-    if preprocessed_image is None:
-        raise ValueError("Input image to OCR is None")
-    text = pytesseract.image_to_string(preprocessed_image, lang=lang, config=config)
-    return text.strip()
