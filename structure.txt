@@ -1,0 +1,19 @@
+text_extraction_project/
+│
+├── data/
+│   ├── english/
+│   ├── hindi/
+│   └── handwritten/
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── detection.py
+│   ├── recognition.py
+│   └── app.py
+│
+├── notebooks/
+│   ├── experiments.ipynb
+│
+├── requirements.txt
+├── README.md
+└── environment.yml
